@@ -1,0 +1,183 @@
+div.perso{
+    width: 100%;
+}
+img.perso{
+    max-width: 100%;
+    height: auto;
+}
+#frisk .perso1 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    text-align: left;
+    margin: 1em;
+    width: 100%;
+    
+}
+div.Frisk{
+    width: 25%;
+}
+img.img1{
+    width: 25%;
+}
+#flowey .perso2 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 35px;
+    width: 100%;
+
+}
+div.Flowey{
+    width: 100%;
+}
+img.img2{
+    width: 48%;
+    
+}
+
+#toriel .perso3 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: auto;
+    width: 100%;
+
+}
+img.img3{
+    width: 40%;
+}
+
+#nastablook .perso4 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 10px;
+    width: 100%;
+    
+
+}
+img.img4{
+    width: 38%;
+}
+#sans .perso5 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 40px;
+    width: 100%;
+    
+
+}
+img.img5{
+    width: 20%;
+}
+#papyrus .perso6 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 5px;
+    width: 100%;
+    
+
+}
+img.img6{
+    width: 35%;
+
+}
+#undyne .perso7 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 40px;
+    width: 100%;
+   
+
+}
+img.img7{
+    width: 20%;
+}
+#alphys .perso8 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 35px;
+    width: 100%;
+ 
+
+}
+img.img8{
+    width: 25%;
+}
+#Mettaton .perso9 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 40px;
+    width: 100%;
+}
+img.img9{
+    width: 20%;
+}
+img.img10{
+    width: 12%;
+}
+#Asgore .perso11 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 35px;
+    width: 100%;
+    
+
+}
+img.img11{
+    width: 30%;
+}
+#chara .perso12 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 40px;
+    width: 100%;
+  
+
+}
+img.img12{
+    width: 10%;
+}
+
+#asriel .perso13 {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    padding-left: auto;
+    text-align: left;
+    margin-left: 35px;
+    width: 100%;
+   
+
+}
+img.img13{
+    width: 15%;
+}

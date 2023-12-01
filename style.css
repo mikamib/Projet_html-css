@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family:  'determination_sans_webregular';
+}
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0em;
+	padding: 0em;
+	background: #000000 ;
+	font-family: sans-serif;
+	font-size: 20pt;
+	color: #ffffff;
+  display: flex;
+  justify-content: center;
+
+}
+  @font-face {
+    font-family: 'determination_sans_webregular';
+    src: url('fonts/determinationsanswebregular-369x-webfont.woff2') format('woff2'),
+         url('fonts/determinationsanswebregular-369x-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1{
+  text-align: center;
+  margin-bottom: 70px;
+}
+img.LOGO {
+    max-width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+div.accueil{
+  width: 15%;
+  float: left;
+}
+img.accueil {
+  max-width: 100%;
+  height: 20%;
+  margin-left: 80%;
+  margin-right: auto;
+  padding: auto;
+  display: flex;
+  margin-top: 40%;
+}
+div.histoire{
+  width: 15%;
+  height: 15%;
+}
+img.histoire{
+  max-width: 100%;
+  height: 20%;
+  margin-left: 215%;
+  margin-right: auto;
+  padding: auto;
+  display: flex;
+  margin-top: 14%;
+
+}
+div.personnages{
+  width: 15%;
+  height: 15%;
+}
+img.personnages{
+  max-width: 100%;
+  height: 20%;
+  margin-left: 350%;
+  margin-right: auto;
+  padding: auto;
+  display: block;
+
+}
+div.fins{
+  width: 15%;
+  height: 15%;
+}
+img.fins{
+  max-width: 100%;
+  height: 20%;
+  margin-left: 480%;
+  margin-right: auto;
+  padding: auto;
+  display: block;
+
+}
+img.dog{
+  max-width: auto;
+  max-width: 50%;
+  margin-right: auto;
+  margin-top: 180px;
+  margin-bottom: auto;
+}
+div.dog{
+  width: 100%;
+}
+.wrap{
+  flex-wrap: wrap;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+

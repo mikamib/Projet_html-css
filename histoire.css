@@ -1,0 +1,19 @@
+div.texte{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+div.accueil{
+    width: 20%;
+    height: auto;
+    
+}
+img.accueil{
+    width: 130px;
+}
+
+#content .post {
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}

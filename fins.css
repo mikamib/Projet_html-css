@@ -1,0 +1,36 @@
+#route1 .fin1{
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 250px;
+    margin-right: 224px;
+}
+#route2 .fin2{
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 250px;
+    margin-right: 224px;
+}
+#route3 .fin3{
+    border: 5px solid white;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 250px;
+    margin-right: 224px;
+}
+img.asr{
+    width: 15%;
+}
+img.flo{
+    width: 25%;
+}
+img.bnc{
+    width: 100%;
+}
